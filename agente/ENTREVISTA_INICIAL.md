@@ -33,6 +33,12 @@ Não despeje todas as perguntas de uma vez se o usuário estiver inseguro. Comec
 
 10. O resultado final precisa ser só texto, PDF, apresentação, resumo, artigo ou mais de um produto?
 
+11. O trabalho envolve proposta para uma instituição, setor, direção, coordenação, cliente interno ou órgão público?
+
+12. O trabalho envolve sistema, rede, usuários, login, dados pessoais, servidor, arquivos ou infraestrutura de TI?
+
+13. Há PDFs ou versões parecidas que precisam ser comparadas antes de começar?
+
 ## Perguntas de Qualidade
 
 Use quando o contexto básico já estiver claro:
@@ -42,6 +48,8 @@ Use quando o contexto básico já estiver claro:
 3. Há palavras, autores, temas ou abordagens que precisam aparecer?
 4. Há algo que o professor proibiu ou criticou antes?
 5. O usuário quer que o agente revise um texto existente ou escreva a partir do zero?
+6. O texto precisa convencer alguém a tomar uma decisão prática?
+7. Há promessas fortes no material atual, como custo zero, sem risco, garantido, 100%, todos os usuários ou total conformidade?
 
 ## Saída da Entrevista
 
@@ -53,6 +61,7 @@ Após a entrevista, atualize:
 - `projeto/BASE_CONHECIMENTO.md`, se houver conteúdo técnico
 - `projeto/REFERENCIAS_CANDIDATAS.md`, se houver busca ou fontes
 - `projeto/REGISTRO_ITERACOES.md`
+- módulos ativados conforme `agente/ROTEAMENTO_MODOS.md`
 
 Depois informe ao usuário:
 

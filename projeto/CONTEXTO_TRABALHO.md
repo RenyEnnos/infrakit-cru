@@ -26,6 +26,13 @@ Este é o arquivo mestre do projeto. O agente deve preencher este documento apó
 - **Tamanho esperado**: preencher
 - **Idioma**: preencher
 - **Critério de aprovação ou nota desejada**: preencher
+- **Status de prontidão alvo**: revisão do usuário / revisão técnica / avaliação acadêmica / submissão institucional / entrega final
+
+## Modos e Módulos Ativados
+
+| Modo ou módulo | Status | Motivo |
+|---|---|---|
+| preencher | ativo/inativo | preencher |
 
 ## Tema e Escopo
 
@@ -57,6 +64,14 @@ Liste aqui o que não deve ser feito.
 | Referências fornecidas | preencher | pendente |
 | Modelo institucional | preencher | pendente |
 
+## Arquivo Canônico
+
+Use quando houver PDF, DOCX, LaTeX ou mais de uma versão parecida.
+
+| Arquivo | SHA256 | Páginas ou tamanho | Status | Observação |
+|---|---|---:|---|---|
+| preencher | preencher | preencher | candidato/canônico/descartado | preencher |
+
 ## Normas e Autoridades
 
 Registre a regra que manda no trabalho.
@@ -82,6 +97,14 @@ Registre decisões que afetam a continuidade do trabalho.
 | Data | Decisão | Motivo |
 |---|---|---|
 | preencher | preencher | preencher |
+
+## Níveis de Verdade
+
+Classifique afirmações importantes, principalmente números, custos, riscos, prazos, conformidade e dados institucionais.
+
+| Afirmação | Nível | Evidência | Ação |
+|---|---|---|---|
+| preencher | usuário/fonte/instituição/hipótese | preencher | preencher |
 
 ## Pendências
 

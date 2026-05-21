@@ -20,15 +20,15 @@ Use este arquivo para controlar fontes.
 
 ## Fontes Encontradas
 
-| Status | Referência | Achado útil | Onde usar | Pendência |
-|---|---|---|---|---|
-| encontrada | preencher | preencher | preencher | preencher |
+| Status | Referência | Link exato ou identificador | Achado útil | Onde usar | Confiança | Pendência |
+|---|---|---|---|---|---|---|
+| encontrada | preencher | preencher | preencher | preencher | baixa/média/alta | preencher |
 
 ## Fontes Incorporadas
 
-| Referência | Local no texto | Conferência |
-|---|---|---|
-| preencher | preencher | pendente |
+| Referência | Link exato ou identificador | Local no texto | Afirmação sustentada | Data de acesso | Conferência |
+|---|---|---|---|---|---|
+| preencher | preencher | preencher | preencher | preencher | pendente |
 
 ## Fontes Descartadas
 

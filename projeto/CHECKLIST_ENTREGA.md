@@ -27,6 +27,8 @@ Este checklist deve ser adaptado ao tipo real de trabalho.
 - [ ] Fontes usadas no texto rastreáveis
 - [ ] Dados ou resultados não foram inventados
 - [ ] Afirmações técnicas relevantes têm base
+- [ ] Afirmações importantes classificadas por nível de verdade
+- [ ] Promessas fortes revisadas, comprovadas ou reescritas
 
 ## 3. Estrutura
 
@@ -53,6 +55,7 @@ Este checklist deve ser adaptado ao tipo real de trabalho.
 - [ ] Tabelas e figuras numeradas, se houver
 - [ ] PDF final gerado a partir de LaTeX
 - [ ] Documento compilou sem erro fatal
+- [ ] Revisão visual final feita no PDF
 
 ## 6. Revisão Final
 
@@ -61,6 +64,13 @@ Este checklist deve ser adaptado ao tipo real de trabalho.
 - [ ] Pendências registradas
 - [ ] Riscos informados ao usuário
 - [ ] Versão final localizada e identificada
+- [ ] Status de prontidão declarado com precisão
+
+## 7. Feito vs Validado
+
+| Item crítico | Escrito | Validado por fonte | Validado tecnicamente | Aprovado |
+|---|---|---|---|---|
+| preencher | [ ] | [ ] | [ ] | [ ] |
 
 ## Critério de Pronto
 
@@ -70,4 +80,5 @@ O trabalho só pode ser chamado de pronto quando:
 - as pendências bloqueadoras foram resolvidas ou aceitas pelo usuário;
 - as fontes usadas são rastreáveis;
 - o checklist específico foi cumprido;
-- o registro da última iteração foi atualizado.
+- o registro da última iteração foi atualizado;
+- o status de prontidão foi declarado sem ambiguidade.

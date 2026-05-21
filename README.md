@@ -31,6 +31,7 @@ Leia infrakit_cru/START_AQUI.md e siga o protocolo.
 | `START_AQUI.md` | Entrada simples para usuário e agente |
 | `agente/` | Protocolo de comportamento e entrevista inicial |
 | `core/` | Regras fixas que não dependem do tipo de trabalho |
+| `modos/` | Modelos específicos ativados conforme o tipo de entrega |
 | `projeto/` | Arquivos vivos que o agente adapta após entrevistar o usuário |
 | `projeto/logs/` | Registros detalhados de iterações maiores |
 | `docs/` | Explicação da arquitetura e decisões do framework |
@@ -44,6 +45,8 @@ Leia infrakit_cru/START_AQUI.md e siga o protocolo.
 - Nenhuma fonte pode ser inventada.
 - Normas da instituição, professor ou edital prevalecem sobre modelos genéricos.
 - Toda mudança importante deve ser registrada.
+- Fatos, hipóteses e validações devem ser separados.
+- Promessas fortes exigem fonte, teste, validação ou reescrita proporcional.
 
 ## Filosofia
 

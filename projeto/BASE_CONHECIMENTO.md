@@ -26,9 +26,9 @@ Preencher.
 
 ## Dados Relevantes
 
-| Dado | Valor ou descrição | Fonte | Onde usar |
-|---|---|---|---|
-| preencher | preencher | preencher | preencher |
+| Dado | Valor ou descrição | Nível de verdade | Fonte | Onde usar |
+|---|---|---|---|---|
+| preencher | preencher | usuário/fonte/instituição/hipótese | preencher | preencher |
 
 ## Argumentos Fortes
 
@@ -39,6 +39,14 @@ Preencher.
 ## Lacunas e Dúvidas
 
 | Dúvida | Impacto | Como resolver |
+|---|---|---|
+| preencher | preencher | preencher |
+
+## Promessas Fortes a Revisar
+
+Registre aqui frases que precisam de evidência, teste ou reescrita proporcional.
+
+| Frase ou afirmação | Risco | Ação |
 |---|---|---|
 | preencher | preencher | preencher |
 

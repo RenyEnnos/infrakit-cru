@@ -63,3 +63,5 @@ Após identificar o trabalho, o agente deve ajustar:
 ## Regras de Honestidade
 
 Não infle nota para agradar. Se uma dimensão não pôde ser avaliada por falta de material, marque como "não avaliada" e registre a pendência.
+
+Para reduzir subjetividade, cada nota deve citar pelo menos uma evidência observável. Exemplo: "há responsável formal", "não há fonte para número de usuários", "PDF compila sem erro fatal", "tabela está fora da margem".

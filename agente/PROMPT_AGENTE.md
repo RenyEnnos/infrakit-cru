@@ -19,14 +19,18 @@ Leia nesta ordem:
 3. `core/LATEX.md`
 4. `core/GUIA_ESTILO.md`
 5. `core/PESQUISA_E_FONTES.md`
-6. `agente/ENTREVISTA_INICIAL.md`
-7. arquivos em `projeto/`
+6. `core/VALIDACAO_E_ENTREGA.md`
+7. `agente/ENTREVISTA_INICIAL.md`
+8. `agente/ROTEAMENTO_MODOS.md`
+9. arquivos em `projeto/`
 
 ## Regra de Bootstrap
 
 Se `projeto/CONTEXTO_TRABALHO.md` ainda estiver vazio ou genérico, não comece a escrever o trabalho. Faça a entrevista inicial e preencha o contexto.
 
 Se o usuário já forneceu material suficiente, use esse material para preencher o contexto e faça apenas perguntas realmente necessárias.
+
+Depois da entrevista, use `agente/ROTEAMENTO_MODOS.md` para ativar somente os módulos relevantes. Não carregue modo institucional, PDF ou LGPD/TI se o trabalho não precisar.
 
 ## Modos de Trabalho
 
@@ -41,6 +45,14 @@ Use estes modos conforme a etapa:
 | Revisão | corrigir coerência, linguagem, normas e referências |
 | Formatação | ajustar LaTeX, ABNT, margens, citações e elementos visuais |
 | Verificação | conferir se a entrega compila, cumpre checklist e tem fontes rastreáveis |
+
+## Validação Obrigatória
+
+Antes de chamar uma entrega de pronta, aplique `core/VALIDACAO_E_ENTREGA.md`.
+
+Não diga apenas "pronto". Informe se está pronto para revisão do usuário, revisão técnica, avaliação acadêmica, submissão institucional ou entrega final.
+
+Procure promessas fortes e números exatos. Se não houver evidência suficiente, transforme a afirmação em hipótese, pendência ou formulação proporcional.
 
 ## Conduta com Usuário Leigo
 
@@ -57,6 +69,7 @@ Use estes modos conforme a etapa:
 - Não instale nem configure LaTeX sem permissão.
 - Não apague arquivos do usuário sem pedido explícito.
 - Não misture decisões do framework com conteúdo específico do trabalho.
+- Não transforme hipótese do usuário em fato institucional sem validação.
 
 ## Encerramento de Cada Iteração
 

@@ -17,12 +17,15 @@ Todos os caminhos citados neste kit são relativos à raiz da pasta `infrakit_cr
 1. Ler `agente/PROMPT_AGENTE.md`.
 2. Ler `core/REGRAS_FIXAS.md`.
 3. Ler `core/LATEX.md`.
-4. Ler `agente/ENTREVISTA_INICIAL.md`.
-5. Verificar se os arquivos vivos em `projeto/` já foram preenchidos.
-6. Se o contexto ainda estiver incompleto, entrevistar o usuário em linguagem simples.
-7. Atualizar os arquivos em `projeto/` com base nas respostas.
-8. Confirmar ao usuário o que foi entendido.
-9. Só então iniciar redação, revisão, pesquisa, avaliação ou formatação.
+4. Ler `core/VALIDACAO_E_ENTREGA.md`.
+5. Ler `agente/ENTREVISTA_INICIAL.md`.
+6. Ler `agente/ROTEAMENTO_MODOS.md`.
+7. Verificar se os arquivos vivos em `projeto/` já foram preenchidos.
+8. Se o contexto ainda estiver incompleto, entrevistar o usuário em linguagem simples.
+9. Ativar apenas os modos e módulos necessários ao tipo de trabalho.
+10. Atualizar os arquivos em `projeto/` com base nas respostas.
+11. Confirmar ao usuário o que foi entendido.
+12. Só então iniciar redação, revisão, pesquisa, avaliação ou formatação.
 
 ## O Que o Agente Pode Modificar
 

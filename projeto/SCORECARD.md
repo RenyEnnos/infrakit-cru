@@ -9,6 +9,7 @@ Use este arquivo para acompanhar evolução por iteração.
 - **Avaliador**: preencher
 - **Nota final**: não avaliada
 - **Status geral**: contexto ainda não preenchido
+- **Status de prontidão**: não definido
 
 ## Quadro de Notas
 
@@ -40,3 +41,7 @@ Nota final = soma(nota da dimensão x peso da dimensão)
 ## Prioridade Atual
 
 Preencher após avaliação baseline.
+
+## Observação Sobre Notas
+
+Notas são estimativas de qualidade do documento, não prova de validação externa. Sempre combine a nota com o status de prontidão em `projeto/CHECKLIST_ENTREGA.md`.

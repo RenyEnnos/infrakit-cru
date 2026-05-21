@@ -31,17 +31,26 @@ O kit antigo tratava quase tudo como TCC. O Infrakit Cru muda essa lógica: o ag
 - linguagem natural e autoral;
 - fontes rastreáveis;
 - normas específicas acima de normas genéricas;
-- registro das mudanças.
+- registro das mudanças;
+- validação de promessas fortes;
+- controle de PDFs e versões;
+- checklist LGPD/TI quando aplicável.
 
 Esses arquivos não devem ser alterados em um trabalho comum.
 
-### 4. Projeto
+### 4. Modos
+
+`modos/` contém estruturas específicas para tipos de trabalho.
+
+Um modo só deve ser ativado quando o pedido pedir aquela forma de entrega. O primeiro modo criado é proposta institucional/técnica, voltado a documentos de decisão, pilotos, infraestrutura e propostas para instituições.
+
+### 5. Projeto
 
 `projeto/` contém os arquivos vivos. Eles devem ser adaptados pelo agente com base nas respostas do usuário.
 
 Essa camada representa o estado atual do trabalho.
 
-### 5. Logs
+### 6. Logs
 
 `projeto/logs/` guarda detalhes de iterações grandes. O registro principal continua sendo `REGISTRO_ITERACOES.md`.
 
@@ -50,11 +59,12 @@ Essa camada representa o estado atual do trabalho.
 1. Usuário pede para iniciar o Infrakit.
 2. Agente lê entrada, core e entrevista.
 3. Agente faz perguntas essenciais.
-4. Agente atualiza arquivos vivos.
-5. Agente confirma entendimento.
-6. Agente adapta rubrica e checklist.
-7. Agente começa o trabalho em modo adequado.
-8. Agente verifica e registra cada iteração.
+4. Agente roteia modos e módulos necessários.
+5. Agente atualiza arquivos vivos.
+6. Agente confirma entendimento.
+7. Agente adapta rubrica e checklist.
+8. Agente começa o trabalho em modo adequado.
+9. Agente verifica e registra cada iteração.
 
 ## Por Que Não Começar Pelo TCC
 
