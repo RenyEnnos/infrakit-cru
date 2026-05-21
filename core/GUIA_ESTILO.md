@@ -1,6 +1,6 @@
 # Guia de Estilo
 
-Este guia vale para qualquer trabalho produzido com o Infrakit. Ele deve ser adaptado ao tipo de entrega, mas suas regras centrais permanecem.
+Este guia vale para qualquer trabalho produzido com o Docframe. Ele deve ser adaptado ao tipo de entrega, mas suas regras centrais permanecem.
 
 ## Tom
 

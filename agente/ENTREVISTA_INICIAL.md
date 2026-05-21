@@ -1,6 +1,6 @@
 # Entrevista Inicial
 
-Use esta entrevista para adaptar o Infrakit ao trabalho real. O usuário pode responder parcialmente. Se ele disser "não sei", registre como pendência e siga com uma hipótese conservadora.
+Use esta entrevista para adaptar o Docframe ao trabalho real. O usuário pode responder parcialmente. Se ele disser "não sei", registre como pendência e siga com uma hipótese conservadora.
 
 ## Como Perguntar
 

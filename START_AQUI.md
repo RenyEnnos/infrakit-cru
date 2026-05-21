@@ -1,16 +1,16 @@
 # Start Aqui
 
-Este é o arquivo de entrada do Infrakit Cru.
+Este é o arquivo de entrada do Docframe.
 
 Se você é o usuário, diga ao agente:
 
 ```text
-Leia este arquivo e siga o protocolo do Infrakit.
+Leia este arquivo e siga o protocolo do Docframe.
 ```
 
 Se você é o agente, execute a sequência abaixo sem pular etapas.
 
-Todos os caminhos citados neste kit são relativos à raiz da pasta `infrakit_cru/`.
+Todos os caminhos citados neste kit são relativos à raiz da pasta `docframe/`.
 
 ## Sequência Obrigatória do Agente
 
@@ -48,5 +48,5 @@ O agente deve começar explicando, em poucas linhas:
 
 1. que vai fazer uma entrevista curta;
 2. que o usuário pode responder com "não sei";
-3. que o objetivo é adaptar o Infrakit ao tipo real de trabalho;
+3. que o objetivo é adaptar o Docframe ao tipo real de trabalho;
 4. que nenhuma escrita final começa antes do contexto mínimo estar claro.

@@ -1,4 +1,4 @@
-# Regras Fixas do Infrakit
+# Regras Fixas do Docframe
 
 Estas regras valem para qualquer tipo de trabalho.
 
@@ -44,7 +44,7 @@ A ordem de autoridade é:
 2. norma da instituição;
 3. norma da revista, evento ou disciplina;
 4. ABNT ou norma técnica geral;
-5. padrão interno do Infrakit.
+5. padrão interno do Docframe.
 
 O agente deve registrar a base normativa adotada em `projeto/CONTEXTO_TRABALHO.md`.
 

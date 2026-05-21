@@ -1,6 +1,6 @@
 # Política de LaTeX e Formato Final
 
-O Infrakit usa LaTeX como formato principal para documentos acadêmicos e técnicos formais. Essa é a opção padrão quando não há outro formato obrigatório ou stack já definida.
+O Docframe usa LaTeX como formato principal para documentos acadêmicos e técnicos formais. Essa é a opção padrão quando não há outro formato obrigatório ou stack já definida.
 
 LaTeX não deve ser imposto quando o tipo de entrega, canal de envio ou projeto existente exigir outro formato. Nesses casos, registre a exceção em `projeto/CONTEXTO_TRABALHO.md` e valide a ferramenta real de saída.
 

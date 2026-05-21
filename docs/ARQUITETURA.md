@@ -1,12 +1,12 @@
-# Arquitetura do Infrakit Cru
+# Arquitetura do Docframe
 
-Este documento explica a organização do framework para quem for manter ou adaptar o Infrakit.
+Este documento explica a organização do framework para quem for manter ou adaptar o Docframe.
 
 ## Objetivo da Arquitetura
 
 Separar o que é fixo do que muda em cada trabalho.
 
-O kit antigo tratava quase tudo como TCC. O Infrakit Cru muda essa lógica: o agente primeiro entende a entrega e só depois adapta rubrica, checklist, contexto, referências e fluxo de trabalho.
+O kit antigo tratava quase tudo como TCC. O Docframe muda essa lógica: o agente primeiro entende a entrega e só depois adapta rubrica, checklist, contexto, referências e fluxo de trabalho.
 
 ## Camadas
 
@@ -56,7 +56,7 @@ Essa camada representa o estado atual do trabalho.
 
 ## Fluxo Esperado
 
-1. Usuário pede para iniciar o Infrakit.
+1. Usuário pede para iniciar o Docframe.
 2. Agente lê entrada, core e entrevista.
 3. Agente faz perguntas essenciais.
 4. Agente roteia modos e módulos necessários.
@@ -83,7 +83,7 @@ Isso evita um arquivo gigante difícil de ler e também evita dezenas de arquivo
 
 ## Critério de Boa Evolução
 
-Uma nova versão do Infrakit deve:
+Uma nova versão do Docframe deve:
 
 - reduzir ambiguidade para o agente;
 - facilitar uso por usuário leigo;

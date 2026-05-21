@@ -1,8 +1,8 @@
-# Infrakit Cru
+# Docframe
 
 Infraestrutura base para orientar agentes de IA na criação, revisão e entrega de trabalhos acadêmicos, técnicos e profissionais com formato final deliberado.
 
-O Infrakit Cru não começa assumindo que o trabalho é um TCC, artigo, relatório ou seminário. Primeiro o agente entrevista o usuário, entende o tipo de entrega e adapta os arquivos vivos do projeto. Só depois ele passa a escrever, revisar, pesquisar ou formatar.
+O Docframe não começa assumindo que o trabalho é um TCC, artigo, relatório ou seminário. Primeiro o agente entrevista o usuário, entende o tipo de entrega e adapta os arquivos vivos do projeto. Só depois ele passa a escrever, revisar, pesquisar ou formatar.
 
 ## Para Quem é
 
@@ -12,11 +12,11 @@ O leitor esperado é um usuário leigo. Depois de ler este arquivo, ele deve con
 
 ## Como Usar
 
-1. Coloque a pasta `infrakit_cru/` dentro da pasta do seu trabalho.
+1. Coloque a pasta `docframe/` dentro da pasta do seu trabalho.
 2. Inicie o agente e diga:
 
 ```text
-Leia infrakit_cru/START_AQUI.md e siga o protocolo.
+Leia docframe/START_AQUI.md e siga o protocolo.
 ```
 
 3. Responda à entrevista inicial.
@@ -51,6 +51,6 @@ Leia infrakit_cru/START_AQUI.md e siga o protocolo.
 
 ## Filosofia
 
-O Infrakit não é um gerador automático de texto. Ele é uma estrutura de trabalho. A função dele é fazer o agente perguntar melhor, organizar melhor, escrever com mais critério e deixar rastreável o que foi decidido.
+O Docframe não é um gerador automático de texto. Ele é uma estrutura de trabalho. A função dele é fazer o agente perguntar melhor, organizar melhor, escrever com mais critério e deixar rastreável o que foi decidido.
 
 O objetivo é simples: menos improviso, menos retrabalho e mais controle sobre a qualidade final.

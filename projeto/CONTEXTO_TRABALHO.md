@@ -83,7 +83,7 @@ Registre a regra que manda no trabalho.
 | Enunciado do professor | preencher | preencher |
 | Manual institucional | preencher | preencher |
 | ABNT ou outra norma | preencher | preencher |
-| Padrão do Infrakit | usado apenas onde não houver regra superior | preencher |
+| Padrão do Docframe | usado apenas onde não houver regra superior | preencher |
 
 ## Política de Pesquisa
 
